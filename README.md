@@ -6,8 +6,7 @@ Pandas 手册
 [pandas](http://pandas.pydata.org/) 是一个用于数据分析的Python库，它能让你快速处理一些探索性的工作。
 
 本手册的目的通过一些实际的例子来让你开始使用pandas。
-Pandas 的[帮助文档](http://pandas.pydata.org/pandas-docs/stable/)已经相当全面了。不过，经常会有人询问
-应该怎样上手。接下来我讲讲如何用pandas来处理一些真实世界中的数据，如你所料，这些数据包含各种bug和异常值。
+Pandas 的[帮助文档](http://pandas.pydata.org/pandas-docs/stable/)已经相当全面了。不过，经常会有人询问应该怎样上手。接下来我讲讲如何用pandas来处理一些真实世界中的数据，如你所料，这些数据包含各种bug和异常值。
 
 接下来我会使用以下3个数据
 
