@@ -35,12 +35,16 @@ Pandas 的[帮助文档](http://pandas.pydata.org/pandas-docs/stable/)已经相�
 本教程的完整视频和语音讲解演示版在[网易云课堂](Panda应知必回)付费提供，可根据个人情况酌情选择。
 
 ## 怎么使用Panda手册
+### 在线环境
+推荐使用Binder的出色在线Jupyter Notebook运行环境，[点击这里即可开始](https://mybinder.org/v2/gh/qzcool/DataCamp_pandas_cookbook/master)。对网速要求不高，基本均可流畅运行。
+
+### 本地环境
 首先，你需要更新下Jupyter Notebook(&gt;= 3.0) 以及 pandas(&gt;=0.13)
 
 用pip可以完成更新操作：
 
 ```
-pip install Jupyter pandas numpy tornado pyzmq jinja2 matplotlib
+pip install pandas
 ```
 
 编译和配置这些有时候挺繁琐的，我自己是用的[Anaconda](https://www.anaconda.com/what-is-anaconda/),这个软件把几乎所有你能想到的库都包含了，并且是免费和开源的。
