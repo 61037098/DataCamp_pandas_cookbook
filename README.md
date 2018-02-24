@@ -1,4 +1,4 @@
-# Pandas 手册
+# Pandas中文手册
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/qzcool/DataCamp_pandas_cookbook/master)
 
 
